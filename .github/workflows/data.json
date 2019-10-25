@@ -1,0 +1,15 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {"type": "Feature", "id": 0, "geometry": {"type": "Point", "coordinates": [55.831903, 37.411961]}, "properties": {"balloonContent": "Грузоперевозки по России", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 1, "geometry": {"type": "Point", "coordinates": [55.763338, 37.565466]}, "properties": {"balloonContent": "ГРУЗОПЕРЕВОЗКИ ПО МОСКВЕ И МОСКОВСКОЙ ОБЛАСТИ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 2, "geometry": {"type": "Point", "coordinates": [55.763338, 37.565466]}, "properties": {"balloonContent": "СБОРНЫЕ ГРУЗЫ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 3, "geometry": {"type": "Point", "coordinates": [55.744522, 37.616378]}, "properties": {"balloonContent": "ДОМАШНИЕ ПЕРЕЕЗДЫ ПО РОССИИ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 4, "geometry": {"type": "Point", "coordinates": [55.780898, 37.642889]}, "properties": {"balloonContent": "ПЕРЕВОЗКИ КВАДРОЦИКЛОВ, ВЕЛОСИПЕДОВ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 5, "geometry": {"type": "Point", "coordinates": [55.793559, 37.435983]}, "properties": {"balloonContent": "МЕЖДУНАРОДНЫЕ ПЕРЕВОЗКИ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 6, "geometry": {"type": "Point", "coordinates": [55.800584, 37.675638]}, "properties": {"balloonContent": "АВИА и ЖД ПЕРЕВОЗКИ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 7, "geometry": {"type": "Point", "coordinates": [55.716733, 37.589988]}, "properties": {"balloonContent": "УСЛУГИ ГРУЗЧИКОВ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}},
+        {"type": "Feature", "id": 8, "geometry": {"type": "Point", "coordinates": [55.775724, 37.56084]}, "properties": {"balloonContent": "СТРАХОВАНИЕ ГРУЗОВ", "clusterCaption": "Аптека", "hintContent": "Аптека", "iconCaption": "Аптека"}, "options": {"preset": "islands#blueCircleDotIconWithCaption"}}
+      
+    ]
+}
